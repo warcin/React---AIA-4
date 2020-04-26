@@ -1,0 +1,21 @@
+.add-new-game input{
+    height: 30px;
+    width: 300px;
+}
+.add-new-game select{
+    height: 30px;
+    width: 300px;
+}
+.element{
+    margin: 10px;
+}
+.content{
+    margin: 10px;
+}
+.add-new-game{
+    display: flex;
+    align-items: center;
+    font-size: 10px;
+    justify-content: flex-start;
+}
+

@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Mount & Blade: Warband",
+        "description": "Hybryda gry RPG i akcji",
+        "image": "https://cdn.gracza.pl/galeria/gry13/grupy/9563.jpg",
+        "rating": 9
+    },
+    {
+        "id": 2,
+        "name": "Minecraft",
+        "description": "Otwarty sandbox",
+        "image": "https://static.gry-online.pl/uploads/product-cover/0041/4129/cover-1.jpg",
+        "rating": 10
+    },
+	{
+        "id": 3,
+        "name": "Dota 2",
+        "description": "Darmowa MOBA",
+        "image": "https://cdn.gracza.pl/galeria/gry13/506128520d.jpg",
+        "rating": 6
+    },
+	{
+        "id": 4,
+        "name": "Terraria",
+        "description": "Sandboxowa gra platformowa",
+        "image": "https://static.gry-online.pl/uploads/product-cover/0044/4032/81dqr-yjill-sl1500.jpg",
+        "rating": 8
+    },
+    {
+        "id": 5,
+        "name": "Hearts of Iron 4",
+        "description": "Wojenna strategia czasu rzeczywistego",
+        "image": "https://static.gry-online.pl/uploads/product-cover/0029/5821/hearts-of-iron-iv-cadet-edition-packshot.jpg",
+        "rating": 3
+    }
+]
